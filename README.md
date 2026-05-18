@@ -1,0 +1,1 @@
+# Modelo-de-treinamento-para-classifica-o-de-solo
